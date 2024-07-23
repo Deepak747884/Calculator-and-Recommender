@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">midtermq2</string>
+    <string-array name="genres_array">
+        <item>Choose</item>
+        <item>Horror</item>
+        <item>Adventure</item>
+        <item>Romance</item>
+        <item>SciFi</item>
+    </string-array>
+</resources>
