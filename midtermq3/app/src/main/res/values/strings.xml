@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">midtermq3</string>
+    <string-array name="operations_array">
+        <item>Add</item>
+        <item>Subtract</item>
+        <item>Multiply</item>
+        <item>Divide</item>
+    </string-array>
+    <string-array name="genres_array">
+        <item>Choose</item>
+        <item>Horror</item>
+        <item>Adventure</item>
+        <item>Romance</item>
+        <item>SciFi</item>
+    </string-array>
+</resources>
